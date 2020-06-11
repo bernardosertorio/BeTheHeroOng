@@ -43,7 +43,7 @@
 - [ReactNative](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://www.hostinger.com.br/tutoriais/
+- [CSS](https://www.hostinger.com.br/tutoriais/)
 - [Axios](https://www.npmjs.com/package/axios)
 
  
