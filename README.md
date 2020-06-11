@@ -53,7 +53,7 @@
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/bernardosertorio/AplicativoColaborativo/
+$ git clone https://github.com/bernardosertorio/BeTheHeroOng/
  
 # Instalar as dependências 
 $ npm install
