@@ -7,13 +7,12 @@
 </h1>
 
 
-## 🔖 Sobre
+## 🔖 About
 
- Projeto desenvolvido dentro da última semana **Omnistack** oferecida pela escola de programação **RocketSeat**. O objetivo do projeto foi conectar ONGs com pessoas dispostas a ajudar em causas que se identificassem. 
-
+Project developed within the week Omnistack offered by the programming school RocketSeat. The aim of the project was to connect NGOs with people willing to help with identified causes.
 ---
 
-## 💻 📱 Tecnologias utilizadas Back-end
+## 💻 📱 Technologies used Back-end
 
 - [NodeJs](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/) 
@@ -29,7 +28,7 @@
 
 ---
 
-## 💻 Tecnologias utilizadas Web
+## 💻  Technologies used Web
 
 - [ReactJs](https://pt-br.reactjs.org/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -38,7 +37,7 @@
 
 ---
 
-## 📲 Tecnologias utilizadas mobile
+## 📲 Technologies used mobile
 
 - [ReactNative](https://reactnative.dev/)
 - [Expo](https://expo.io/)
@@ -49,19 +48,19 @@
  
 ---
 
-## ⇣ Como baixar o projeto
+## ⇣ How to download the project
 
 ```bash
-# Clonar o repositório
+# Clone the repository
 $ git clone https://github.com/bernardosertorio/BeTheHeroOng/
  
-# Instalar as dependências 
+# Install the dependencies 
 $ npm install
 
-# Iniciar o projeto
+# Start the project
 $ npm start
 ```
 
 ---
 
-Desenvolvido por 😃 Bernardo Sertório
+Developed by 😃 Bernardo Sertório
